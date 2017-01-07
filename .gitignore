@@ -252,3 +252,4 @@ paket-files/
 *.sln.iml
 /rsl-util.sln
 /rsl-util.pyproj
+/rsl/__pycache__
